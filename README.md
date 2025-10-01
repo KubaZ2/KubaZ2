@@ -1,6 +1,6 @@
 ### 👋 Hello
 
-I am a high school student passionate about programming and technology.
+I am a Computer Science student at Warsaw University of Technology, passionate about programming and technology.
 
 ### ✨ About Me
 
